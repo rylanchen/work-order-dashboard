@@ -1,4 +1,6 @@
 # 工单管理与图表展示页面
+##在线预览
+https://work-order-dashboard.vercel.app/login
 
 技术栈
 > React + Vite + TypeScript + TailwindCSS + Ant Design + ECharts
