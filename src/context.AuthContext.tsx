@@ -1,5 +1,5 @@
 import React, { createContext, useContext, useState } from 'react'
-import type { Role } from '../types'
+import type { Role } from './types'
 
 type AuthContextValue = {
   role: Role | null
